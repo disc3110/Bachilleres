@@ -16,5 +16,9 @@ a {
   width: 70px;
 }
 
+.c-align-justify {
+  text-align: justify;
+}
+
 @media only screen and (min-width: 576px) {
 }
