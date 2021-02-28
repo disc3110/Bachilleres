@@ -1,0 +1,20 @@
+Body{
+  background-color: #142246;
+}
+
+h1 {
+  margin: auto;
+  color: #4DA31C;
+}
+
+a {
+  text-decoration: none;
+}
+
+.size-70pxs {
+  height: 70px;
+  width: 70px;
+}
+
+@media only screen and (min-width: 576px) {
+}
